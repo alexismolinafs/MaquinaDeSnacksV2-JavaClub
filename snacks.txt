@@ -1,0 +1,5 @@
+1,Papas Adobadas,15.5
+2,Coca - Cola 500ml,14.5
+3,Yogurt Fresa,12.5
+4,Pepsi 600ml,13.5
+5,Barritas Fresa,15.5
